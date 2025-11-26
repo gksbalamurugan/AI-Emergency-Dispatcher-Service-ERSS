@@ -1,0 +1,313 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AMB-2000",
+        "type": "ambulance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.72025670988097,
+          10.805725949646465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AMB-2001",
+        "type": "ambulance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.69693087816273,
+          10.793602523498706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AMB-2002",
+        "type": "ambulance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.70723536922864,
+          10.793556689478276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AMB-2003",
+        "type": "ambulance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.69606574973545,
+          10.773434051905355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AMB-2004",
+        "type": "ambulance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.71431109789792,
+          10.770715660326516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AMB-2005",
+        "type": "ambulance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.70002279814915,
+          10.786148719517248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AMB-2006",
+        "type": "ambulance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.8157516,
+          10.7554121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FIRE-3000",
+        "type": "firetruck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.71928076799101,
+          10.790649482399317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FIRE-3001",
+        "type": "firetruck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.70096695725196,
+          10.804953802737625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FIRE-3002",
+        "type": "firetruck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.69690568824699,
+          10.792874693614168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FIRE-3003",
+        "type": "firetruck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.8283687,
+          10.7503527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "POL-1000",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.70854037825282,
+          10.7902657267154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "POL-1001",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.69412126632777,
+          10.781682004344624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "POL-1002",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.69905613083748,
+          10.800078118442315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "POL-1003",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.70431733674128,
+          10.804361479833831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "POL-1004",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.70287390641373,
+          10.774878584301078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "POL-1005",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.70500305366546,
+          10.778822908327093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "POL-1006",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.71502036235833,
+          10.79396081181124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "POL-1007",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.72290089915191,
+          10.789677395540053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "POL-1008",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.71905136541373,
+          10.781022493449884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "POL-1009",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.70663446989316,
+          10.801646808597155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "POL-1009",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.70663446989316,
+          10.801646808597155
+        ]
+      }
+    }
+  ]
+}
