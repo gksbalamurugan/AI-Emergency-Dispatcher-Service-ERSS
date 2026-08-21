@@ -1,9 +1,9 @@
 import requests
 import json
 
-API_KEY = "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"
-API_URL = "https://openrouter.ai/api/v1/chat/completions"
-MODEL = "mistralai/mistral-7b-instruct"
+API_KEY = ""
+API_URL = ""
+MODEL = ""
 
 def extract_fields_from_text(text, expected_fields):
     prompt = (
