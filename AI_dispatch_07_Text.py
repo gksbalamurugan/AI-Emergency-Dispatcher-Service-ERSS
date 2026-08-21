@@ -6,8 +6,8 @@ from vehicle_dispatcher import load_vehicle_data, find_nearest_vehicle
 from location_cleaning import clean_location
 
 
-API_KEY = "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"  # your real OpenRouter API key
-MODEL = "mistralai/mistral-7b-instruct"
+API_KEY = ""  # your real OpenRouter API key
+MODEL = "#Model Name Here"
 
 EMERGENCY_CATEGORIES = {
     "fire": {"cause": None, "trapped": None, "injuries": None, "flammables": None, "severity": None},
@@ -33,7 +33,7 @@ def geocode_location(location_str):
         "limit": 1
     }
     headers = {
-        "User-Agent": "AI-Dispatcher/1.0 (avglifemy@gmail.com)"  # Optional but recommended
+        "User-Agent": "AI-Dispatcher/1.0 ()"  # Optional but recommended
     }
 
     try:
